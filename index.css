@@ -1,0 +1,56 @@
+#container-perfil {
+    height: 30vh;
+    width: 100vw;
+}
+
+#container-imagem-perfil {
+    height: 80%;
+    width: 100%;
+}
+
+#capa-perfil {
+    height: 100%;
+    width: 100%;
+    background-image: url(../projetofinal/bg-perfil.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#foto-perfil {
+    background-image: url("../projetofinal/foto.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 15%;   
+}
+
+#container-titulos {
+    line-height: 50%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#perfil-cargo {
+    font-style: italic;
+}
+
+#container-sobre-mim {
+    line-height: 100%;
+    font-style: normal;
+}
+
+#sobre-mim {
+    text-align:center;
+}
+
+#container-perfil-skill {
+    height: 50%;
+    width: 100%;
+}
+
+#titulo-skill {
+    text-align: center;
+}
+
